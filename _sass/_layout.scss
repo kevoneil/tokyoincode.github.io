@@ -3,18 +3,12 @@
  */
 
 .site-wrapper {
-    background: rgba(0,0,0,0.1);
     @extend %clearfix;
+    height: 50px;
 }
 
 .site-header {
-    min-height: 56px;
-    background: url('../img/header.jpg');
-    background-size: cover;
-    background-position: bottom;
-    height: 300px;
-    //border-top: 5px solid $grey-color-dark;
-    //border-bottom: 1px solid $grey-color-light;
+    background: rgba(0,99,140, 0.8);
 
     @extend %clearfix;
     // Positioning context for the mobile navigation icon
@@ -23,7 +17,7 @@
 
 .site-title {
     padding: 0 30px;
-    font-size: 26px;
+    font-size: 1rem;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
