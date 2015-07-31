@@ -11,7 +11,7 @@ google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  false
 show_social_icons:  true
 
@@ -49,7 +49,7 @@ share_hackernews: false
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    '/:categories/:title.html'
+permalink:    pretty
 paginate:     4
 sass:
   compressed: false
