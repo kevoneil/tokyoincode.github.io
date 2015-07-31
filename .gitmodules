@@ -1,3 +1,3 @@
 [submodule "pixyll"]
 	path = pixyll
-	url = git@github.com:johnotander/pixyll.git
+	url = https://github.com/johnotander/pixyll.git
