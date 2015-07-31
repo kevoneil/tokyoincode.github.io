@@ -3,8 +3,8 @@ title:       tokyoincode
 email:       kevinmoneil@live.com
 author:      Kevin ONeil
 description: ""
-baseurl:     "tokyoincode.com"
-url:         ""
+baseurl:     ""
+url:         "tokyoincode.com"
 
 # Google analytics
 google_analytics:
