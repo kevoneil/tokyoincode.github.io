@@ -2,8 +2,8 @@
 
 layout:     post
 title:      Mid Month Update 1: Tokyo Buffalo
-date:       2015-08-01 00:00:00
-summary:    Welcome to my blog!
+date:       2015-08-15 01:00:00
+summary:    An update of what I have been working on so far...
 
 ---
 
