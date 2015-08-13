@@ -1,8 +1,8 @@
 # Site settings
 title:       tokyoincode
-email:       kevinmoneil@live.com
+email:       keivnmoneil@live.com
 author:      Kevin ONeil
-description: ""
+description: "A front-end engineer in the land of the rising sun"
 baseurl:     ""
 url:         "http://tokyoincode.com"
 
@@ -11,8 +11,8 @@ google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: false
-show_post_footers:  false
+show_related_posts: true
+show_post_footers:  true
 show_social_icons:  false
 
 # Disqus post comments
@@ -21,8 +21,9 @@ disqus_shortname:
 
 # Social icons
 github_username: tokyoincode
+bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: tokyoincode
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -52,6 +53,6 @@ redcarpet:
 permalink:    pretty
 paginate:     4
 sass:
-  compressed: false
+  compressed: true
 gems:
   - jekyll-sitemap
