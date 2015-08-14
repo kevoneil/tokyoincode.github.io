@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://tokyoincode.com"
 
 # Google analytics
-google_analytics: 
+google_analytics: true
 
 # Optional features
 animated:           true
