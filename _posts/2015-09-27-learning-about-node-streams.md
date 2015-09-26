@@ -9,8 +9,8 @@ summary: 	Recently, I was working on my Give Me The Time project and ran into an
 
 The purpose of this blog post is to explain what a stream is in the simplest way
 possible. There are already many articles and videos online about this topic;
-however, I wanted to explain it in the simplest way possible.
-This is how I would explain Node, or UNIX, streams to a five year old.
+however, I wanted to explain it in the simplest way that I could.
+This is how I would explain Node streams to a five year old.
 
 **ELI5**: In essence, a stream connects programs together. Streams can be read and written to.
 These programs are small and specialized to do a single thing.
