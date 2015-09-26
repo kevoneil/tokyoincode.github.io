@@ -125,8 +125,6 @@ another blog post and see if I can explain a little bit more about how streams w
 I recommend doing some of the exercises, they are fun and you can learn a lot about
 streams. Remember, practice makes perfect!
 
-Hope it all makes sense now.
-
 **Disclaimer**: If you find any errors in this blog post, feel free to send me
 an email at kevin@tokyoincode.com. Questions? Send them as well!
 
