@@ -1,0 +1,14 @@
+/Users/kevinmoneil/.rbenv/versions/2.2.3/bin/ruby -r ./siteconf20160403-53781-si44ys.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling redcloth_attributes.c
+compiling redcloth_inline.c
+compiling redcloth_scan.c
+linking shared-object redcloth_scan.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 redcloth_scan.bundle ./.gem.20160403-53781-1gtuir4

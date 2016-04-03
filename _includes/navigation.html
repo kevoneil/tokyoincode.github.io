@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 <a href="{{ site.baseurl }}/about/">About</a>
 <a href="{{ site.baseurl }}/contact/">Contact</a>
+=======
+{% for page in site.pages %}
+    {% if page.tags contains "about" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "contact" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+>>>>>>> 68a6ca4ea1e8a159b424d86e5de5da8de069104e

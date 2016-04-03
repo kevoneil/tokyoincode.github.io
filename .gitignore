@@ -1,3 +1,13 @@
 _site
 .sass-cache
+<<<<<<< HEAD
 pixyll
+=======
+.DS_Store
+.jekyll-metadata
+
+# Ignore the config file that's used for gh-pages.
+_config.gh-pages.yml
+
+Gemfile.lock
+>>>>>>> 68a6ca4ea1e8a159b424d86e5de5da8de069104e
