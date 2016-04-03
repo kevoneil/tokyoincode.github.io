@@ -2,7 +2,7 @@
 
 layout:     post
 title:      Why Style Guides Are Important
-date:       2016-04-03 14:56:00
+date:       2016-04-02 12:00:00
 summary:    Even in a small team, having a set of rules that everyone can follow will make life easier.
 
 ---
